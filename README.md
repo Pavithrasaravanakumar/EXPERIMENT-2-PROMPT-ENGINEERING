@@ -10,10 +10,63 @@ Experiment:
 Test and compare how different pattern models respond to various prompts (broad or unstructured) versus basic prompts (clearer and more refined) across multiple scenarios. 
 Analyze the quality, accuracy, and depth of the generated responses.
 
+## Prompt
+You are an AI research analyst and technical report generator.
+
+Generate a detailed structured output for the topic:
+"Comparative Analysis of Different Types of Prompting Patterns with Various Test Scenarios"
+
+The output must include the following sections:
+
+1. Aim  
+Clearly define the objective of comparing different prompting patterns.
+
+2. Algorithm  
+Provide a step-by-step algorithm in clear numbered format.  
+The algorithm should include:
+- Defining objective  
+- Selecting prompting patterns (Zero-shot, Few-shot, Chain-of-Thought, Role-based, Structured)  
+- Designing test scenarios (general knowledge, technical QA, logical reasoning, creative writing, data interpretation)  
+- Creating prompt variants (broad vs refined prompts)  
+- Running experiments  
+- Evaluating responses using metrics (accuracy, relevance, clarity, depth, reasoning, creativity)  
+- Recording results  
+- Comparing and analyzing  
+- Generating insights and conclusion  
+
+3. Workflow Diagram  
+Represent the process using a simple text-based flow diagram with arrows.
+
+4. Output Results  
+Provide a comparison table with scores (scale 1–10) for each prompting pattern across all test scenarios.  
+Include an "Overall Score" column.
+
+5. Observations  
+Highlight key findings such as:
+- Performance differences between prompting patterns  
+- Impact of refined prompts vs broad prompts  
+- Strengths and weaknesses of each method  
+
+6. Result  
+Clearly state the best-performing prompting pattern.
+
+7. Conclusion  
+Summarize insights and give recommendations on which prompting pattern to use for different tasks.
+
+Instructions:
+- Keep the format clean, structured, and academic  
+- Use tables for comparison  
+- Use simple text diagrams (not images)  
+- Provide realistic sample scores  
+- Ensure clarity and logical flow  
+- Avoid unnecessary explanations  
+
+The output should be concise, well-formatted, and suitable for academic submission or presentation.
+
+
 
 ## Algorithm:
 
-Algorithm
 Step 1: Define Objective
 Identify the goal: Compare performance of different prompting techniques
 Focus on response quality, reasoning ability, and accuracy
